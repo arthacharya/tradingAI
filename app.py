@@ -151,8 +151,8 @@ if __name__ == '__main__':
                        layout="wide",
                        initial_sidebar_state="expanded",
                        menu_items={
-                           'Get Help': 'https://github.com/kavehbc/market-forecast',
-                           'Report a bug': "https://github.com/kavehbc/market-forecast",
+                           'Get Help': 'https://github.com/arthacharya/tradingAI/blob/master',
+                           'Report a bug': "https://github.com/arthacharya/tradingAI/blob/master/app.py",
                            'About': "# Cryptocurrency & Stock Market Forecast (Predictive AI)"
                        })
     main()
